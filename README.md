@@ -1,4 +1,4 @@
-#Core Project
+# Core Project
 
 *Structure for creating a dancing Java project.*
 
