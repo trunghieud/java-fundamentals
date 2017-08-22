@@ -1,6 +1,6 @@
-# Core Project
+# Java-Fundamentals
 
-*Structure for creating a dancing Java project.*
+*Structure for creating a Java fundamental project.*
 
 **Java 7**
 
